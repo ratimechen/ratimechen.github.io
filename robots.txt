@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /js/
+Disallow: /css/
+Disallow: /categories/
+Disallow: /tags/
+Sitemap: https://ratimechen.github.io/sitemap.xml
